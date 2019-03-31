@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "WejetApplication",
+    "packageName": "com.wejet.channel",
+    "packageFolder": "com/wejet/channel",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "NmE1YWMwMmQ2MzkxMzM5MTMxNDk5NTgyZWIxYTIzNGFkZGRhNTA2ZWRjZjhiNDljNTY3ZjI1NzNhMTIzYWYwMjdmZjcwMjVjYjFiNjk0MzNjY2EzYmRjNTM4MDI3YzFlNGZjNWQyODFmZTJiMDNhNzNiZGUwYjA1NjZmZDMwZTM=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "Levin-Li",
+  "repository-name": "wejet-application"
+}
